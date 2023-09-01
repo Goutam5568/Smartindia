@@ -2,15 +2,16 @@
 # Face Recogniton GUI-APP
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://youtu.be/bGH2P3HYtVs?si=98UO6TOtHp5BpFWK)
 
 # Live Demo
 ```html
-https://www.youtube.com/embed/3EBdT-0gvu8
+[https://www.youtube.com/embed/3EBdT-0gvu8](https://youtu.be/bGH2P3HYtVs?si=98UO6TOtHp5BpFWK)
 
 ```
 
-
+GOUTAM ANNA
+SMART INDIA
 # A very Simple Gui app for Face Detection 
 
   - Collect Face Data
