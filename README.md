@@ -47,12 +47,6 @@ Add the user you want to train a classifier for <br>
 ![page1](https://i.ibb.co/t8gdq6s/adduser.png)<br>
 
 
-### Recognition <br>
-A webcam window will popup and start recognition proccess<br>
-![page4](https://i.ibb.co/sCtgDDC/4page.png)<br>
->![Face Recognition](https://i.ibb.co/bNpC5wR/jack.png)<br>
->![emotion](https://i.ibb.co/F7pdtjZ/emotion.png)<br>
->![Age and Gender](https://i.ibb.co/9q1L7sD/age.png)<br>
 
 
 
